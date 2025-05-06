@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning LLM Integration
+- 👯 I’m looking to collaborate on Python Development Projects 
+- 📫 How to reach me: kapoorhimani6@gmail.com
 <!--
 **Himani117/Himani117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
